@@ -5,19 +5,19 @@ A luxurious, responsive single-page website for a premium spa business featuring
 ## 📸 Screenshots
 
 ### 🏠 Homepage with Carousel
-![Homepage](https://via.placeholder.com/800x400/ff6b9d/ffffff?text=Redical+Spa+Homepage+with+Rotating+Carousel)
+![Homepage](https://i.ibb.co/HfX7sLbj/Screenshot-2025-07-20-191126.png)
 
 ### 💆‍♀️ Services Section
-![Services](https://via.placeholder.com/800x400/9d4edd/ffffff?text=Our+Special+Massage+Services+Section)
+![Services](https://i.ibb.co/q3nrWH4D/Screenshot-2025-07-20-191159.png)
 
 ### 🖼️ Gallery
-![Gallery](https://via.placeholder.com/800x400/c77dff/ffffff?text=Spa+Gallery+with+Hover+Effects)
+![Gallery](https://i.ibb.co/bjjThZhX/Screenshot-2025-07-20-191232.png)
 
 ### 💰 Pricing Catalog
 ![Pricing](https://via.placeholder.com/800x400/ffe1e8/9d4edd?text=Service+Pricing+Table)
 
 ### 📱 Mobile Responsive
-![Mobile](https://via.placeholder.com/400x600/ff6b9d/ffffff?text=Mobile+Responsive+Design)
+![Mobile](https://i.ibb.co/wN7ZTcCy/Screenshot-2025-07-20-191316.png)
 
 ## ✨ Features
 
